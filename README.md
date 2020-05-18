@@ -8,11 +8,16 @@ Until April 24 Germany was still officially backing Fraunhofer HHI solution, bas
 PEPP-PT | https://github.com/ct-report/PEPP-PT
 --------|-------------------------------------
 
-However, such centralized solution isn't supported by the new "Nofitication Exposures" APIs by Apple+Google for BLE contact-tracing (release to developers expected on April 28).
+\
+However, such centralized solution isn't supported by the new "Nofitication Exposures" APIs by Apple+Google for BLE contact-tracing (release to developers expected on April 28). Besides, it was affected by specific issues for BLE background detection on iOS devices.
 
-Therefore, also owing to current iOS issues with centralized BT proximity-tracing solutions, the German Government is now evaluating decentralized models, that could be compatibile with the new Apple+Google API. 
+Therefore, the German Government is now working on **CORONA-WARN-APP**, that relies on Apple+Google Exposure Notifications API. 
 
-Not only DP^3T, but also TCN - used by former proposal **Ito** .
+CORONA-WARN-APP | n/a
+----------------|----
+Docs & Sources | https://github.com/corona-warn-app/
+
+It's a decentralized solution based on DP^3T + TCN - used by former proposal **Ito** .
 
 DP^3T | https://github.com/ct-report/DP-3T
 ------|-----------------------------------
