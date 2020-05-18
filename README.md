@@ -17,6 +17,7 @@ CORONA-WARN-APP | n/a
 ----------------|----
 Docs & Sources | https://github.com/corona-warn-app/
 
+\
 It's a decentralized solution based on DP^3T + TCN - used by former proposal **Ito** .
 
 DP^3T | https://github.com/ct-report/DP-3T
