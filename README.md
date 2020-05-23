@@ -16,6 +16,7 @@ Therefore, the German Government is now working on **CORONA-WARN-APP**, that rel
 CORONA-WARN-APP | n/a
 ----------------|----
 Docs & Sources | https://github.com/corona-warn-app/
+References | https://www.coronawarn.app/en/
 
 \
 It's a decentralized solution based on DP^3T + TCN - used by former proposal **Ito** .
