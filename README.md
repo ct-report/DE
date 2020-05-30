@@ -11,15 +11,32 @@ PEPP-PT | https://github.com/ct-report/PEPP-PT
 \
 However, such centralized solution isn't supported by the new "Nofitication Exposures" APIs by Apple+Google for BLE contact-tracing (release to developers expected on April 28). Besides, it was affected by specific issues for BLE background detection on iOS devices.
 
-Therefore, the German Government is now working on **CORONA-WARN-APP**, that relies on Apple+Google Exposure Notifications API. 
+Therefore, the German Government together with some partners - including SAP and T-Systems - is now working on **CORONA-WARN-APP**, that relies on Apple+Google Exposure Notifications API.
 
-CORONA-WARN-APP | n/a
+**On May 30th : first release of source-code for iOS&Android apps (Work in Progress).**
+
+Play Store | n/a
 ----------------|----
-Docs & Sources | https://github.com/corona-warn-app/
+Sources | https://github.com/corona-warn-app/
 References | https://www.coronawarn.app/en/
 
+- APKLAB Analysis
+
+Build | Link
+------|-----
+0.5.4 #4 Release | https://apklab.io/apk.html?hash=cd9edc4c3a6bb2a5c5106f65551ea504dd2e62760e280b5e9175a1aca65790aa
+0.5.4 #4 Debug | https://apklab.io/apk.html?hash=388e273f18804459bcc275bd2259c4333aa61a60039159a51f50f701cdec4e6e
+
+- JoeSandbox Report
+
+Build | Link
+------|-----
+0.5.4 #4 Release | https://www.joesandbox.com/analysis/234408/0/html
+0.5.4 #4 Debug | https://www.joesandbox.com/analysis/234409/0/html
+
+
 \
-It's a decentralized solution based on DP^3T + TCN - used by former proposal **Ito** .
+It's a decentralized solution with architecture based on DP^3T + TCN - used by former proposal **Ito** .
 
 DP^3T | https://github.com/ct-report/DP-3T
 ------|-----------------------------------
